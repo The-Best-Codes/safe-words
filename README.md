@@ -12,5 +12,7 @@ The repository consists of the following files:
 Feel free to use these lists in your projects to enhance the safety and appropriateness of content for children. You can incorporate these lists into your applications, games, or any other software that requires kid-friendly vocabulary.
 
 
+
 Best Regards,
+
 Best_codes
