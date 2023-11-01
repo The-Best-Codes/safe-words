@@ -550,6 +550,7 @@ April Fools' Day
 apron
 apt
 Apt.
+AQI
 aquarium
 AR (Arkansas)
 Arab
@@ -4491,6 +4492,7 @@ forcible
 forcing
 Ford
 forecast
+forecasts
 forehead
 foreign
 foreigners
@@ -6905,6 +6907,7 @@ mayonnaise
 mayor
 maze
 MB (Manitoba)
+MB (MilliBars)
 MD (Maryland)
 me
 ME (Maine)
@@ -10413,6 +10416,7 @@ sleeping bag
 sleepless
 sleeps
 sleepy
+sleet
 sleeve
 sleeves
 sleigh
@@ -11631,6 +11635,8 @@ thumb
 thump
 thunder
 thundered
+thunderstorm
+thunderstorms
 Thurs.
 Thursday
 thus
@@ -11706,6 +11712,7 @@ tomb
 Tommy
 Tommy's
 tomorrow
+tomorrow's
 ton
 tone
 tones
@@ -12185,6 +12192,7 @@ utensils
 utmost
 utter
 utterly
+UV
 VA (Virginia)
 vacancy
 vacant
@@ -12834,6 +12842,7 @@ Yellowstone
 yells
 yes
 yesterday
+yesterday's
 yet
 yield
 yields
