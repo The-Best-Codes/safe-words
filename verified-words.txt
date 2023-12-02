@@ -8265,6 +8265,8 @@ petition
 petrify
 petroleum
 pets
+pettit
+pettitresearch.com
 petty cash
 petunia
 Ph.D.
@@ -12888,3 +12890,18 @@ zooming
 zoos
 zucchini
 
+/*Special*/
+mBlock
+makeblock
+makeblock.com
+mblock.cc
+github
+github.com
+github.io
+google.com
+bing.com
+bestcodes
+thebestcodes
+the-best-codes
+best_codes
+AGI
