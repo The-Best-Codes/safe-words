@@ -1,3 +1,6 @@
+$NSFW
+$UNKNOWN
+$CORRECT
 a
 a lot
 a.m. (morning)
