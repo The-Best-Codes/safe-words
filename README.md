@@ -1,18 +1,8 @@
-# Safe Words
+# Age-Appropriate Safe-Word Lists
 
-Welcome to the Safe Words repository! This repository contains two lists of safe words that are appropriate for kids. These lists can be used in various contexts such as educational games, child-friendly applications, or any other situation where it is important to ensure a safe and positive experience for children.
+This repository contains two lists of words that aim to be appropriate for children. These lists can be used in various contexts such as educational games, child-friendly applications, or other situations where it is important to ensure a safe and positive experience for children.
 
-## Usage
+## Files
 
-The repository consists of the following files:
-
-1. `verified-words.txt`: This file contains the first list of safe words suitable for kids. It has been 100% human read.
-2. `safe-words.txt`: This file contains the second list of safe words appropriate for kids. **It is not completely verified!** Look through it yourself, and message me about innapropriate things that need removed.
-
-Feel free to use these lists in your projects to enhance the safety and appropriateness of content for children. You can incorporate these lists into your applications, games, or any other software that requires kid-friendly vocabulary.
-
-
-
-Best Regards,
-
-Best_codes
+- `verified-words.txt`: Every entry has been personally reviewed and approved by a human.
+- `safe-words.txt`: A larger second list that hasn't yet been verified. Most obvious bad words have been removed, but feel free to open an issue or a PR if you spot something that shouldn't be there.
